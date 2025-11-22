@@ -1,6 +1,8 @@
 # CineAI - AI-Powered Movie & Series Recommendation App
 
 Modern web uygulaması olarak geliştirilmiş, TMDB API ve AI entegrasyonu ile kişiselleştirilmiş film/dizi önerileri sunan platform.
+Ekran Kaydı:[Ekran.zip](https://github.com/user-attachments/files/23691548/Ekran.zip)
+
 
 ## Özellikler
 
